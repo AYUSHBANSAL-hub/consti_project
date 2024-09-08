@@ -1,0 +1,301 @@
+City,State,Territory,Region,Country,Quarter,Prod Id,Sales,Partner Name,Ice Id
+Pencil Bluff,Arkansas,Montgomery,South,US,4,1,65993,Costco,1
+Le Roy,West Virginia,Jackson,South,US,4,2,40265,Costco,2
+Port Republic,Maryland,Calvert,South,US,4,3,88201,Amazon,3
+Crescent Mills,California,Plumas,West,US,4,4,99680,Target,4
+Browntown,Wisconsin,Green,Midwest,US,4,5,91109,Target,5
+Millville,Delaware,Sussex,South,US,4,6,43977,Costco,6
+Greenville,Rhode Island,Pitt,Northeast,US,4,7,12066,Amazon,7
+Napoleon,Michigan,Jackson,Midwest,US,4,8,27497,Walmart,8
+Portage,Utah,Wood,West,US,4,8,20440,Bestbuy,9
+Prairie Du Sac,Wisconsin,Sauk,Midwest,US,4,9,40094,Bestbuy,10
+Plymouth,Indiana,Litchfield,Midwest,US,4,1,79388,Target,11
+Marine City,Michigan,Saint Clair,Midwest,US,4,7,89566,Costco,12
+Humboldt,Arizona,Coles,West,US,4,3,15980,Target,13
+Ester,Alaska,Fairbanks North Star,West,US,4,3,81775,Bestbuy,14
+Blairsville,Georgia,Indiana,South,US,4,3,30563,Costco,15
+Kaumakani,Hawaii,Kauai,West,US,4,2,75619,Costco,16
+Hardaway,Alabama,Macon,South,US,4,6,26944,Amazon,17
+Wareham,Massachusetts,Plymouth,Northeast,US,4,3,71972,Bestbuy,18
+Mooresboro,North Carolina,Cleveland,South,US,4,4,23225,Amazon,19
+Langford,South Dakota,Marshall,Midwest,US,4,5,68248,Bestbuy,20
+Aguas Buenas,Puerto Rico,Aguas Buenas,South,US,4,6,87888,Amazon,21
+Selfridge,North Dakota,Sioux,Midwest,US,4,8,32701,Target,22
+West Rutland,Vermont,Rutland,Northeast,US,4,6,82010,Target,23
+Silerton,Tennessee,Hardeman,South,US,4,1,63584,Costco,24
+Crapo,Maryland,Dorchester,South,US,4,4,48738,Amazon,25
+Beacon Falls,Connecticut,New Haven,Northeast,US,4,6,89422,Target,26
+Plentywood,Montana,Sheridan,West,US,4,7,21349,Target,27
+Nichols,South Carolina,Polk,South,US,4,4,54865,Costco,28
+Kualapuu,Hawaii,Maui,West,US,4,7,33873,Target,29
+Irma,Wisconsin,Lincoln,Midwest,US,4,2,99014,Bestbuy,30
+Bosque,New Mexico,Valencia,West,US,4,3,33746,Target,31
+Silverpeak,Nevada,Esmeralda,West,US,4,1,37165,Walmart,32
+Pembroke,Maine,Bryan,Northeast,US,4,5,43610,Walmart,33
+Lavallette,New Jersey,Ocean,Northeast,US,4,5,27856,Target,34
+Scott,Arkansas,Van Wert,South,US,4,1,23844,Bestbuy,35
+Rincon,New Mexico,Rincon,West,US,4,5,98648,Costco,36
+Simpsonville,Maryland,Howard,South,US,4,5,93012,Bestbuy,37
+Silver Beach,Massachusetts,Barnstable,Northeast,US,4,5,77448,Target,38
+Leopolis,Wisconsin,Shawano,Midwest,US,4,1,64615,Costco,39
+Eden,Utah,Weber,West,US,4,5,54966,Bestbuy,40
+Mansfield Center,Connecticut,Tolland,Northeast,US,4,8,35699,Walmart,41
+Walton,Nebraska,Lane,Midwest,US,4,5,93382,Costco,42
+Toast,North Carolina,Surry,South,US,4,8,75208,Costco,43
+Ojo Caliente,New Mexico,Taos,West,US,4,9,34644,Bestbuy,44
+Loudon,New Hampshire,Loudon,Northeast,US,4,6,51096,Costco,45
+Graymont,Illinois,Livingston,Midwest,US,4,3,87246,Target,46
+Courtland,Minnesota,Southampton,Midwest,US,4,6,94661,Walmart,47
+Bertrand,Nebraska,Mississippi,Midwest,US,4,6,27641,Target,48
+Kapaa,Hawaii,Kauai,West,US,4,2,57468,Amazon,49
+Spring Hope,North Carolina,Nash,South,US,4,9,74197,Target,50
+Yellow Pine,Idaho,Valley,West,US,4,9,26547,Walmart,51
+Pilot,Virginia,Montgomery,South,US,4,6,97373,Target,52
+South Windham,Connecticut,Windham,Northeast,US,4,1,41477,Costco,53
+Bigelow,Arkansas,Perry,South,US,4,1,95735,Bestbuy,54
+Bradley,Oklahoma,Clark,South,US,4,5,28762,Bestbuy,55
+Morrison,Illinois,Grundy,Midwest,US,4,5,22067,Costco,56
+Lafayette,Minnesota,Sussex,Midwest,US,4,3,82679,Bestbuy,57
+Westport Point,Massachusetts,Bristol,Northeast,US,4,8,96304,Walmart,58
+Mansfield,Massachusetts,Douglas,Northeast,US,4,6,97367,Target,59
+Mc Dermitt,Nevada,Humboldt,West,US,4,5,55638,Amazon,60
+Paris,Virginia,Clarke,South,US,4,8,91145,Bestbuy,61
+Goshen,Massachusetts,Utah,Northeast,US,4,8,39859,Bestbuy,62
+Sharpsville,Pennsylvania,Mercer,Northeast,US,4,9,71924,Target,63
+Bridgewater,Massachusetts,Oneida,Northeast,US,4,4,70764,Walmart,64
+Hydeville,Vermont,Rutland,Northeast,US,4,5,67495,Bestbuy,65
+Aberdeen,North Carolina,Grays Harbor,South,US,4,6,65198,Bestbuy,66
+Putnam Hall,Florida,Putnam,South,US,4,1,76151,Walmart,67
+Rockfall,Connecticut,Middlesex,Northeast,US,4,2,61776,Walmart,68
+Clam Lake,Wisconsin,Ashland,Midwest,US,4,9,43362,Bestbuy,69
+Wilmot,South Dakota,Ashley,Midwest,US,4,6,36131,Walmart,70
+Naval Anacost Annex,District of Columbia,District Of Columbia,South,US,4,6,89502,Bestbuy,71
+Dupuyer,Montana,Pondera,West,US,4,5,31114,Target,72
+Saunderstown,Rhode Island,Washington,Northeast,US,4,4,67323,Amazon,73
+Christchurch,Virginia,Middlesex,South,US,4,8,43467,Walmart,74
+Huntington Station,New York,Suffolk,Northeast,US,4,5,76384,Costco,75
+Dale,Indiana,Spencer,Midwest,US,4,4,63424,Target,76
+Casselberry,Florida,Seminole,South,US,4,5,58492,Costco,77
+Valmy,Nevada,Humboldt,West,US,4,6,77721,Bestbuy,78
+Centerville,Tennessee,Houston,South,US,4,2,41750,Bestbuy,79
+Hatch,New Mexico,Garfield,West,US,4,8,13310,Amazon,80
+Stringtown,Oklahoma,Atoka,South,US,4,2,29972,Target,81
+Pedro,Ohio,Lawrence,Midwest,US,4,7,17103,Costco,82
+Conda,Idaho,Caribou,West,US,4,9,51399,Bestbuy,83
+Fort George G Meade,Maryland,Anne Arundel,South,US,4,1,15485,Walmart,84
+Santa Isabel,Puerto Rico,Santa Isabel,South,US,4,9,91385,Target,85
+Holland,Missouri,Lucas,Midwest,US,4,2,17979,Walmart,86
+Eden,Utah,Rockingham,West,US,4,1,57906,Costco,87
+Yerkes,Kentucky,Perry,South,US,4,1,14631,Walmart,88
+Hingham,Massachusetts,Hill,Northeast,US,4,1,30633,Target,89
+Euclid,Minnesota,Cuyahoga,Midwest,US,4,5,49833,Amazon,90
+Cory,Colorado,Clay,West,US,4,5,37017,Costco,91
+Irondale,Ohio,Washington,Midwest,US,4,8,98201,Target,92
+Western,Nebraska,Saline,Midwest,US,4,4,19643,Costco,93
+Gateway,Arkansas,Mesa,South,US,4,4,61080,Amazon,94
+Germantown,Tennessee,Shelby,South,US,4,9,76110,Target,95
+Newdale,Idaho,Fremont,West,US,4,7,86119,Walmart,96
+Crocheron,Maryland,Dorchester,South,US,4,5,24706,Target,97
+Telford,Tennessee,Montgomery,South,US,4,8,10705,Walmart,98
+Creston,Illinois,Wirt,Midwest,US,4,4,93793,Target,99
+Second Mesa,Arizona,Navajo,West,US,4,5,46936,Costco,100
+Dixie,Georgia,Walla Walla,South,US,4,3,12875,Target,101
+Ranchester,Wyoming,Sheridan,West,US,4,9,52929,Target,102
+Bradford,Rhode Island,Orange,Northeast,US,4,7,71817,Walmart,103
+Frannie,Wyoming,Park,West,US,4,6,78325,Walmart,104
+Brilliant,Ohio,Marion,Midwest,US,4,7,93995,Amazon,105
+Dyer,Nevada,Gibson,West,US,4,3,62589,Amazon,106
+Nunn,Colorado,Weld,West,US,4,3,24369,Target,107
+Newbury,Vermont,Geauga,Northeast,US,4,1,14633,Amazon,108
+Telogia,Florida,Liberty,South,US,4,5,97219,Target,109
+Shiloh,Georgia,Camden,South,US,4,3,63875,Bestbuy,110
+Annapolis,Illinois,Iron,Midwest,US,4,6,20579,Target,111
+Cumberland,Virginia,Providence,South,US,4,9,71205,Bestbuy,112
+Coventry,Rhode Island,Tolland,Northeast,US,4,9,29928,Costco,113
+North Turner,Maine,Androscoggin,Northeast,US,4,9,50523,Target,114
+New Sweden,Maine,Aroostook,Northeast,US,4,8,14317,Amazon,115
+Walker,Louisiana,Linn,South,US,4,7,81350,Amazon,116
+Gakona,Alaska,Valdez Cordova,West,US,4,4,13985,Target,117
+Lacassine,Louisiana,Jefferson Davis,South,US,4,6,99587,Target,118
+Lamy,New Mexico,Santa Fe,West,US,4,2,18249,Bestbuy,119
+Hunters,Washington,Stevens,West,US,4,4,77802,Bestbuy,120
+Koyukuk,Alaska,Yukon Koyukuk,West,US,4,6,58609,Amazon,121
+Belle Fourche,South Dakota,Butte,Midwest,US,4,7,13341,Amazon,122
+Columbia Falls,Montana,Washington,West,US,4,3,40762,Target,123
+Woodbury,Kentucky,Gloucester,South,US,4,4,54408,Target,124
+Birchwood,Tennessee,Hamilton,South,US,4,3,15206,Amazon,125
+Republic,Missouri,Ferry,Midwest,US,4,6,52868,Target,126
+North Judson,Indiana,Starke,Midwest,US,4,8,25738,Costco,127
+Redlake,Minnesota,Beltrami,Midwest,US,4,4,85619,Walmart,128
+Oak Vale,Mississippi,Lawrence,South,US,4,4,90004,Walmart,129
+Poolville,Texas,Parker,South,US,4,1,40449,Walmart,130
+Monticello,New Mexico,Wayne,West,US,4,6,93965,Costco,131
+Fruitland,New Mexico,Duchesne,West,US,4,7,84565,Walmart,132
+Croton On Hudson,New York,Westchester,Northeast,US,4,8,23316,Bestbuy,133
+Ute Park,New Mexico,Colfax,West,US,4,6,29639,Walmart,134
+Fredonia,Arizona,Mercer,West,US,4,5,33118,Amazon,135
+Springville,Tennessee,Saint Clair,South,US,4,6,29367,Costco,136
+Lower Brule,South Dakota,Lyman,Midwest,US,4,1,53254,Costco,137
+Cass City,Michigan,Tuscola,Midwest,US,4,7,17555,Bestbuy,138
+Ossipee,New Hampshire,Carroll,Northeast,US,4,5,30779,Amazon,139
+Cody,Wyoming,Cherry,West,US,4,5,46281,Amazon,140
+Livingston,New Jersey,Sumter,Northeast,US,4,8,54954,Bestbuy,141
+Port Saint Lucie,Florida,Saint Lucie,South,US,4,5,96719,Bestbuy,142
+Maunabo,Puerto Rico,Maunabo,South,US,4,5,91635,Target,143
+Adrian,Oregon,Nobles,West,US,4,3,36197,Costco,144
+Clare,Illinois,Webster,Midwest,US,4,3,61028,Amazon,145
+Hecla,South Dakota,Brown,Midwest,US,4,4,30488,Amazon,146
+Crown City,Ohio,Gallia,Midwest,US,4,9,44137,Walmart,147
+Reed,Kentucky,Henderson,South,US,4,6,22718,Target,148
+Grenola,Kansas,Elk,Midwest,US,4,4,66512,Amazon,149
+Rush Valley,Utah,Tooele,West,US,4,3,69345,Target,150
+Passadumkeag,Maine,Penobscot,Northeast,US,4,3,43404,Bestbuy,151
+Belmont,Louisiana,Pleasants,South,US,4,1,10947,Bestbuy,152
+Watkins,Colorado,Benton,West,US,4,5,67769,Costco,153
+Euclid,Minnesota,Polk,Midwest,US,4,2,93189,Amazon,154
+Black Earth,Wisconsin,Dane,Midwest,US,4,5,70699,Walmart,155
+Linch,Wyoming,Johnson,West,US,4,1,90229,Costco,156
+Royalston,Massachusetts,Worcester,Northeast,US,4,6,59836,Walmart,157
+Cranston,Rhode Island,Providence,Northeast,US,4,1,99723,Target,158
+Girdwood,Alaska,Anchorage,West,US,4,1,81206,Amazon,159
+Greensboro,Maryland,Greene,South,US,4,4,36385,Walmart,160
+Lampe,Missouri,Stone,Midwest,US,4,1,29031,Walmart,161
+Rocky Hill,New Jersey,Somerset,Northeast,US,4,7,20796,Bestbuy,162
+North Salem,New Hampshire,Hendricks,Northeast,US,4,9,16455,Costco,163
+Fairview,Wyoming,Buncombe,West,US,4,5,93339,Bestbuy,164
+Mineral Wells,Texas,Palo Pinto,South,US,4,8,68384,Costco,165
+Brooks,Minnesota,Bullitt,Midwest,US,4,2,97955,Target,166
+Naval Anacost Annex,District of Columbia,District Of Columbia,South,US,4,9,12750,Target,167
+Five Points,Alabama,Lawrence,South,US,4,3,88767,Costco,168
+Baltic,Ohio,Tuscarawas,Midwest,US,4,9,25783,Walmart,169
+Tillman,South Carolina,Jasper,South,US,4,9,71932,Costco,170
+Waterford,Connecticut,Oakland,Northeast,US,4,6,47215,Walmart,171
+Eitzen,Minnesota,Houston,Midwest,US,4,9,17240,Target,172
+New Hope,Alabama,Nelson,South,US,4,9,52028,Bestbuy,173
+Utica,South Dakota,Licking,Midwest,US,4,7,41695,Costco,174
+Watertown,Connecticut,Wilson,Northeast,US,4,5,26357,Bestbuy,175
+Hooper,Utah,Alamosa,West,US,4,8,12260,Bestbuy,176
+Perkinsville,Vermont,Steuben,Northeast,US,4,9,25946,Bestbuy,177
+Meriden,Kansas,Laramie,Midwest,US,4,1,69229,Walmart,178
+Rush,Colorado,Monroe,West,US,4,6,61668,Amazon,179
+Abernant,Alabama,Tuscaloosa,South,US,4,7,65556,Target,180
+Liberty,Mississippi,Randolph,South,US,4,2,93789,Walmart,181
+Nordman,Idaho,Bonner,West,US,4,3,66251,Target,182
+Dunseith,North Dakota,Rolette,Midwest,US,4,3,95344,Walmart,183
+Mill Run,Pennsylvania,Fayette,Northeast,US,4,5,95483,Bestbuy,184
+Lindale,Georgia,Floyd,South,US,4,5,47585,Costco,185
+Vandiver,Alabama,Shelby,South,US,4,9,39800,Amazon,186
+Herman,Nebraska,Washington,Midwest,US,4,3,10580,Walmart,187
+Imperial,Nebraska,Pecos,Midwest,US,4,8,29708,Target,188
+Covington,Virginia,Fountain,South,US,4,6,96280,Target,189
+Aguas Buenas,Puerto Rico,Aguas Buenas,South,US,4,9,25847,Bestbuy,190
+Brookside,Alabama,Jefferson,South,US,4,7,42704,Costco,191
+West Liberty,West Virginia,Morgan,South,US,4,1,83570,Bestbuy,192
+Waipahu,Hawaii,Honolulu,West,US,4,2,80396,Target,193
+Elora,Tennessee,Lincoln,South,US,4,5,63114,Amazon,194
+Manderson,Wyoming,Shannon,West,US,4,1,93487,Costco,195
+Allen,Nebraska,Collin,Midwest,US,4,7,82119,Amazon,196
+Street,Maryland,Harford,South,US,4,8,30055,Target,197
+Gloverville,South Carolina,Aiken,South,US,4,4,45888,Bestbuy,198
+Grapevine,Arkansas,Tarrant,South,US,4,7,52050,Walmart,199
+Marbury,Maryland,Charles,South,US,4,9,38565,Walmart,200
+Lebanon,Kansas,Dodge,Midwest,US,4,3,33845,Walmart,201
+Annona,Texas,Red River,South,US,4,5,40204,Bestbuy,202
+Toomsboro,Georgia,Wilkinson,South,US,4,6,39235,Walmart,203
+Mississippi State,Mississippi,Oktibbeha,South,US,4,1,34975,Bestbuy,204
+Taloga,Oklahoma,Dewey,South,US,4,7,79571,Bestbuy,205
+Cody,Wyoming,Park,West,US,4,4,99247,Costco,206
+Garden City,Idaho,Wayne,West,US,4,6,67771,Walmart,207
+Ward Cove,Alaska,Ketchikan Gateway,West,US,4,2,44816,Bestbuy,208
+Tiverton,Rhode Island,Newport,Northeast,US,4,9,99834,Amazon,209
+Oxford,Florida,Granville,South,US,4,2,91691,Bestbuy,210
+Elgin,Arizona,Comanche,West,US,4,4,16758,Costco,211
+Oakwood,Texas,Vermilion,South,US,4,6,71331,Bestbuy,212
+Somerset,Michigan,Orange,Midwest,US,4,7,60819,Amazon,213
+Wetmore,Kansas,Custer,Midwest,US,4,5,64150,Costco,214
+Roy,Utah,Harding,West,US,4,6,59029,Walmart,215
+Semmes,Alabama,Mobile,South,US,4,2,26097,Amazon,216
+Cecil,Alabama,Shawano,South,US,4,2,58081,Costco,217
+Afton,Wyoming,Washington,West,US,4,5,28141,Target,218
+Burlington,Colorado,Hartford,West,US,4,1,51601,Walmart,219
+Summer Lake,Oregon,Lake,West,US,4,9,49171,Costco,220
+Modena,Utah,Ulster,West,US,4,4,43882,Walmart,221
+New Smyrna Beach,Florida,Volusia,South,US,4,6,88965,Walmart,222
+Prudhoe Bay,Alaska,North Slope,West,US,4,6,37964,Walmart,223
+Wenden,Arizona,La Paz,West,US,4,5,24710,Bestbuy,224
+Berlin,North Dakota,Coos,Midwest,US,4,4,68381,Amazon,225
+Roseland,Louisiana,Tangipahoa,South,US,4,5,78906,Bestbuy,226
+Hensel,North Dakota,Pembina,Midwest,US,4,2,25286,Bestbuy,227
+Carrsville,Virginia,Isle Of Wight,South,US,4,6,29311,Amazon,228
+Sussex,Virginia,Waukesha,South,US,4,2,62447,Target,229
+Lake Crystal,Minnesota,Blue Earth,Midwest,US,4,8,69172,Target,230
+Douglas,Arizona,Ward,West,US,4,1,53499,Walmart,231
+Waynetown,Indiana,Montgomery,Midwest,US,4,5,57587,Amazon,232
+Walpole,New Hampshire,Cheshire,Northeast,US,4,5,41286,Amazon,233
+Epsom,New Hampshire,Merrimack,Northeast,US,4,3,83908,Target,234
+Kalama,Washington,Cowlitz,West,US,4,9,11366,Amazon,235
+Caledonia,Missouri,Houston,Midwest,US,4,5,33206,Amazon,236
+Campbellton,Florida,Atascosa,South,US,4,8,54656,Walmart,237
+Schurz,Nevada,Mineral,West,US,4,4,19877,Target,238
+Wells,Nevada,Delta,West,US,4,4,54632,Bestbuy,239
+Madeline,California,Lassen,West,US,4,8,53924,Costco,240
+Buckeye,Arizona,Pocahontas,West,US,4,8,14597,Target,241
+Hope,Rhode Island,Bartholomew,Northeast,US,4,4,65831,Amazon,242
+Hartford,Connecticut,Minnehaha,Northeast,US,4,4,63084,Costco,243
+Barry,Minnesota,Big Stone,Midwest,US,4,7,77003,Costco,244
+Hot Springs Village,Arkansas,Garland,South,US,4,9,45571,Costco,245
+Travelers Rest,South Carolina,Greenville,South,US,4,8,30804,Bestbuy,246
+Cashiers,North Carolina,Jackson,South,US,4,7,26808,Target,247
+Dinosaur,Colorado,Moffat,West,US,4,1,63222,Target,248
+Brandenburg,Kentucky,Meade,South,US,4,9,37689,Amazon,249
+Washington Navy Yard,District of Columbia,District Of Columbia,South,US,4,3,25773,Bestbuy,250
+Loraine,Texas,Adams,South,US,4,2,94302,Amazon,251
+Alba,Missouri,Antrim,Midwest,US,4,7,51831,Walmart,252
+Crayne,Kentucky,Crittenden,South,US,4,5,39156,Costco,253
+Glendale,Rhode Island,Providence,Northeast,US,4,1,67378,Walmart,254
+Andover,Connecticut,Oxford,Northeast,US,4,6,58667,Amazon,255
+Longbranch,Washington,Pierce,West,US,4,5,55714,Costco,256
+South Windham,Maine,Cumberland,Northeast,US,4,1,47406,Walmart,257
+Kamuela,Hawaii,Hawaii,West,US,4,6,99893,Walmart,258
+Verdi,Nevada,Washoe,West,US,4,3,22503,Costco,259
+Malone,Kentucky,Jackson,South,US,4,3,21986,Target,260
+Fairview,Utah,Brown,West,US,4,3,94392,Amazon,261
+Chesterfield,New Hampshire,Chesterfield,Northeast,US,4,8,83246,Bestbuy,262
+Washington,District of Columbia,Sullivan,South,US,4,5,25375,Costco,263
+Glenwood,Alabama,Erie,South,US,4,8,87829,Amazon,264
+Mechanicsburg,Illinois,Cumberland,Midwest,US,4,4,85321,Target,265
+Wildwood,Georgia,Cape May,South,US,4,5,93297,Amazon,266
+Sulphur,Kentucky,Calcasieu,South,US,4,5,34171,Target,267
+Abbyville,Kansas,Reno,Midwest,US,4,1,13787,Bestbuy,268
+Barranquitas,Puerto Rico,Barranquitas,South,US,4,2,98783,Target,269
+Deedsville,Indiana,Miami,Midwest,US,4,3,18508,Amazon,270
+Raymondville,New York,Willacy,Northeast,US,4,6,99581,Amazon,271
+Caddo Mills,Texas,Hunt,South,US,4,2,13691,Costco,272
+Shoreham,Vermont,Suffolk,Northeast,US,4,7,31341,Amazon,273
+Blue Diamond,Nevada,Clark,West,US,4,6,93562,Costco,274
+Sharon,Wisconsin,Walworth,Midwest,US,4,5,39140,Amazon,275
+Wrightstown,New Jersey,Brown,Northeast,US,4,3,36265,Walmart,276
+Washington Navy Yard,District of Columbia,District Of Columbia,South,US,4,6,63633,Walmart,277
+Union City,Michigan,Canadian,Midwest,US,4,6,38984,Bestbuy,278
+Maple,Wisconsin,Douglas,Midwest,US,4,4,13522,Target,279
+Jarales,New Mexico,Valencia,West,US,4,4,83599,Amazon,280
+Elgin,Arizona,Union,West,US,4,8,55687,Costco,281
+Jones,Michigan,Morehouse,Midwest,US,4,6,27649,Target,282
+Kenduskeag,Maine,Penobscot,Northeast,US,4,9,13784,Costco,283
+Poth,Texas,Wilson,South,US,4,8,83575,Target,284
+Kirkwood,Delaware,Warren,South,US,4,4,33586,Target,285
+Accoville,West Virginia,Logan,South,US,4,6,60950,Costco,286
+Smartt,Tennessee,Warren,South,US,4,7,32861,Amazon,287
+Milfay,Oklahoma,Creek,South,US,4,6,42469,Target,288
+Ormsby,Minnesota,Martin,Midwest,US,4,6,63970,Walmart,289
+West Wendover,Nevada,Elko,West,US,4,5,50880,Bestbuy,290
+Ida,Arkansas,Caddo,South,US,4,1,92170,Bestbuy,291
+Collinsville,Connecticut,De Kalb,Northeast,US,4,3,18247,Bestbuy,292
+Ladson,South Carolina,Berkeley,South,US,4,5,64198,Amazon,293
+Georges Mills,New Hampshire,Sullivan,Northeast,US,4,9,32004,Bestbuy,294
+Bunnlevel,North Carolina,Harnett,South,US,4,9,91592,Bestbuy,295
+Kincheloe,Michigan,Chippewa,Midwest,US,4,3,70460,Costco,296
+Slatersville,Rhode Island,Providence,Northeast,US,4,1,75482,Walmart,297
+Austin,Nevada,Lonoke,West,US,4,1,51983,Amazon,298
+Beaverton,Michigan,Lamar,Midwest,US,4,3,58878,Walmart,299
+Crowder,Oklahoma,Quitman,South,US,4,3,47624,Walmart,300
